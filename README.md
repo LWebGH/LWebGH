@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hello!
 
-<!--
-**LWebGH/LWebGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **HTML and CSS specialist** with experience in creating **adaptive** and **cross-browser** layouts.
 
-Here are some ideas to get you started:
+🎯 My goal is to build web pages that:
+- Look **professional**
+- Load **quickly**
+- Display **correctly on all devices**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ I pay great attention to **details**, always **meet deadlines**, and deliver **clean, maintainable code** that is easy to support and extend.
+
+💬 I'm open to **edits**, **adjustments**, and value **clear, transparent communication** at every stage of the project.
+
+🤝 I’ll be glad to help bring your idea to life!
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5, CSS3, JavaScript (Vanilla)
+- Responsive Layout: Flexbox, Grid
+- Methodologies: BEM
+- Tools: Gulp, Git, Figma, VS Code
+- Libraries: Swiper.js
+- Basic JSON & API work (fetch requests)
+
+---
+
+## 🌐 Selected Projects
+
+Here are a few examples from my portfolio:
+- Multi-page responsive website
+- Landing pages with custom sliders and animations
+- Clean, maintainable code structure using BEM
+
+🔗 **View full portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+
+
+---
+
+## 🔧 Tools & Workflow
+
+- ✍️ Code Editor: VS Code  
+- 📁 Version Control: Git + GitHub  
+- 🔄 Task Automation: Gulp  
+- 🎨 Design: Figma  
+- 🧪 Manual Testing on real devices + DevTools  
+
+
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to collaboration.  
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+
