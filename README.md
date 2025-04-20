@@ -33,8 +33,7 @@ Here are a few examples from my portfolio:
 - Landing pages with custom sliders and animations
 - Clean, maintainable code structure using BEM
 
-🔗 **View full portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-
+🔗 **View full portfolio:** [link](https://lwebgh.github.io/portfolio/)
 
 ---
 
@@ -46,12 +45,10 @@ Here are a few examples from my portfolio:
 - 🎨 Design: Figma  
 - 🧪 Manual Testing on real devices + DevTools  
 
-
-
 ---
 
 ## 📬 Let's Connect
 
 I'm always open to collaboration.  
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/lev-473358329/)
 
