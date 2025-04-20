@@ -20,6 +20,7 @@ I am a **HTML and CSS specialist** with experience in creating **adaptive** and 
 - HTML5, CSS3, JavaScript (Vanilla)
 - Responsive Layout: Flexbox, Grid
 - Methodologies: BEM
+- Preprocessors: SCSS, Pug
 - Tools: Gulp, Git, Figma
 - Libraries: Swiper.js
 - Basic JSON & API work (fetch requests)
@@ -42,7 +43,8 @@ Here are a few examples from my portfolio:
 - ✍️ Code Editor: VS Code, Sublime Text, Notepad++, Thonny, PyCharm  
 - 📁 Version Control: Git + GitHub  
 - 🔄 Task Automation: Gulp  
-- 🎨 Design: Figma, Photoshop   
+- 🎨 Design: Figma, Photoshop
+- 📦 HTML/CSS Templating: Pug + SCSS  
 - 🧪 Manual Testing on real devices + DevTools  
 
 ---
