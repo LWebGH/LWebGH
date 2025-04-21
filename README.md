@@ -70,6 +70,11 @@ Here are a few examples from my portfolio:
 
 ## 📬 Let's Connect
 
+<!-- 
 I'm always open to collaboration.  
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/lev-473358329/)
+-->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lev-473358329/)  
+
+
 
