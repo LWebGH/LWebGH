@@ -62,9 +62,10 @@ Here are a few examples from my portfolio:
 - ✍️ Code Editor: _VS Code, Sublime Text, Notepad++, Thonny, PyCharm_  
 - 📁 Version Control: _Git + GitHub_  
 - 🔄 Task Automation: _Gulp_  
-- 🎨 Design: _Figma, Photoshop_
-- 📦 HTML/CSS Templating: _Pug + SCSS_  
-- 🧪 Manual Testing on _real devices + DevTools_  
+- 🎨 Design: _Figma, Photoshop_  
+- 📦 Templating & Styling: _Pug, SCSS_  
+- 🧪 Manual Testing: _Real devices + DevTools_  
+- 🧩 Occasionally used: _Python, PHP_
 
 ---
 
