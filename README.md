@@ -53,18 +53,18 @@ Here are a few examples from my portfolio:
 - Landing pages with custom sliders and animations
 - Clean, maintainable code structure using BEM
 
-🔗 **View full portfolio:** [link](https://lwebgh.github.io/portfolio/)
+🔗 **View full portfolio:** [_link_](https://lwebgh.github.io/portfolio/)
 
 ---
 
 ## 🔧 Tools & Workflow
 
-- ✍️ Code Editor: VS Code, Sublime Text, Notepad++, Thonny, PyCharm  
-- 📁 Version Control: Git + GitHub  
-- 🔄 Task Automation: Gulp  
-- 🎨 Design: Figma, Photoshop
-- 📦 HTML/CSS Templating: Pug + SCSS  
-- 🧪 Manual Testing on real devices + DevTools  
+- ✍️ Code Editor: _VS Code, Sublime Text, Notepad++, Thonny, PyCharm_  
+- 📁 Version Control: _Git + GitHub_  
+- 🔄 Task Automation: _Gulp_  
+- 🎨 Design: _Figma, Photoshop_
+- 📦 HTML/CSS Templating: _Pug + SCSS_  
+- 🧪 Manual Testing on _real devices + DevTools_  
 
 ---
 
