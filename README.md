@@ -64,7 +64,7 @@ Here are a few examples from my portfolio:
 - 🔄 Task Automation: _Gulp_  
 - 🎨 Design: _Figma, Photoshop_  
 - 📦 Templating & Styling: _Pug, SCSS_  
-- 🧪 Manual Testing: _Real devices + DevTools_  
+- 🧪 Manual Testing & Performance: _Real devices, DevTools, Google PageSpeed_   
 - 🧩 Occasionally used: _Python, PHP_
 
 ---
